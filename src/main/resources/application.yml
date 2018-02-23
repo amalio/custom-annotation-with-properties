@@ -1,0 +1,11 @@
+service:
+  url: https://jsonplaceholder.typicode.com/posts
+
+spring:
+  profiles:
+    active: local
+
+myProp: hello!
+
+my:
+  Prop: hello! (with ${})

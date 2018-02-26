@@ -8,4 +8,4 @@ spring:
 myProp: hello!
 
 my:
-  Prop: hello! (with ${})
+ prop: hello! (with "${}")
